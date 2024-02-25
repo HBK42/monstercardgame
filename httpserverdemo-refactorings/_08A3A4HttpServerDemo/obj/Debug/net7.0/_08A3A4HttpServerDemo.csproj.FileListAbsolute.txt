@@ -1,0 +1,60 @@
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\_08A3A4HttpServerDemo.exe
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\_08A3A4HttpServerDemo.deps.json
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\_08A3A4HttpServerDemo.runtimeconfig.json
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\_08A3A4HttpServerDemo.dll
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\_08A3A4HttpServerDemo.pdb
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.AssemblyInfoInputs.cache
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.AssemblyInfo.cs
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.dll
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\refint\_08A3A4HttpServerDemo.dll
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.pdb
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.genruntimeconfig.cache
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\ref\_08A3A4HttpServerDemo.dll
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.csproj.AssemblyReference.cache
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.csproj.CopyComplete
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\_08A3A4HttpServerDemo.exe
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\_08A3A4HttpServerDemo.deps.json
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\_08A3A4HttpServerDemo.runtimeconfig.json
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\_08A3A4HttpServerDemo.dll
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\_08A3A4HttpServerDemo.pdb
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.csproj.AssemblyReference.cache
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.AssemblyInfoInputs.cache
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.AssemblyInfo.cs
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.csproj.CopyComplete
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.dll
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\refint\_08A3A4HttpServerDemo.dll
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.pdb
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.genruntimeconfig.cache
+C:\Users\Hasan\Desktop\c#\Neuer Ordner\httpserverdemo-refactorings\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\ref\_08A3A4HttpServerDemo.dll
+C:\Users\Hasan\Desktop\Projekt\monstercardgame-main\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\_08A3A4HttpServerDemo.exe
+C:\Users\Hasan\Desktop\Projekt\monstercardgame-main\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\_08A3A4HttpServerDemo.deps.json
+C:\Users\Hasan\Desktop\Projekt\monstercardgame-main\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\_08A3A4HttpServerDemo.runtimeconfig.json
+C:\Users\Hasan\Desktop\Projekt\monstercardgame-main\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\_08A3A4HttpServerDemo.dll
+C:\Users\Hasan\Desktop\Projekt\monstercardgame-main\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\_08A3A4HttpServerDemo.pdb
+C:\Users\Hasan\Desktop\Projekt\monstercardgame-main\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hasan\Desktop\Projekt\monstercardgame-main\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hasan\Desktop\Projekt\monstercardgame-main\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Hasan\Desktop\Projekt\monstercardgame-main\httpserverdemo-refactorings\_08A3A4HttpServerDemo\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Hasan\Desktop\Projekt\monstercardgame-main\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.csproj.AssemblyReference.cache
+C:\Users\Hasan\Desktop\Projekt\monstercardgame-main\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan\Desktop\Projekt\monstercardgame-main\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.AssemblyInfoInputs.cache
+C:\Users\Hasan\Desktop\Projekt\monstercardgame-main\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.AssemblyInfo.cs
+C:\Users\Hasan\Desktop\Projekt\monstercardgame-main\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\Projekt\monstercardgame-main\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.csproj.CopyComplete
+C:\Users\Hasan\Desktop\Projekt\monstercardgame-main\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.dll
+C:\Users\Hasan\Desktop\Projekt\monstercardgame-main\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\refint\_08A3A4HttpServerDemo.dll
+C:\Users\Hasan\Desktop\Projekt\monstercardgame-main\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.pdb
+C:\Users\Hasan\Desktop\Projekt\monstercardgame-main\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\_08A3A4HttpServerDemo.genruntimeconfig.cache
+C:\Users\Hasan\Desktop\Projekt\monstercardgame-main\httpserverdemo-refactorings\_08A3A4HttpServerDemo\obj\Debug\net7.0\ref\_08A3A4HttpServerDemo.dll

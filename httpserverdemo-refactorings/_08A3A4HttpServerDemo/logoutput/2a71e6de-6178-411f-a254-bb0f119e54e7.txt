@@ -1,0 +1,300 @@
+Player Card 1 has won
+altenhof RegularSpell Damage: 50 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Draw, no card has won
+altenhof RegularSpell Damage: 50 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 2 has won
+altenhof Knight Damage: 20 vs. kienboec RegularSpell Damage: 28
+------------------------------------------
+Player Card 2 has won
+altenhof Knight Damage: 20 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 1 has won
+altenhof WaterSpell Damage: 22 vs. kienboec WaterGoblin Damage: 10
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 45 vs. kienboec WaterGoblin Damage: 10
+------------------------------------------
+Player Card 2 has won
+altenhof Knight Damage: 20 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 45 vs. kienboec RegularSpell Damage: 28
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 45 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 45 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 2 has won
+altenhof Knight Damage: 20 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 1 has won
+altenhof WaterSpell Damage: 22 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 45 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 1 has won
+altenhof WaterSpell Damage: 22 vs. kienboec WaterGoblin Damage: 10
+------------------------------------------
+Player Card 1 has won
+altenhof WaterSpell Damage: 22 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 2 has won
+altenhof Knight Damage: 20 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 2 has won
+altenhof Knight Damage: 20 vs. kienboec RegularSpell Damage: 28
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 50 vs. kienboec RegularSpell Damage: 28
+------------------------------------------
+Draw, no card has won
+altenhof Knight Damage: 20 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Draw, no card has won
+altenhof RegularSpell Damage: 50 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 2 has won
+altenhof WaterSpell Damage: 22 vs. kienboec RegularSpell Damage: 28
+------------------------------------------
+Player Card 2 has won
+altenhof WaterSpell Damage: 22 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 50 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 2 has won
+altenhof Knight Damage: 20 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 1 has won
+altenhof WaterSpell Damage: 22 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 2 has won
+altenhof Knight Damage: 20 vs. kienboec RegularSpell Damage: 28
+------------------------------------------
+Player Card 1 has won
+altenhof WaterSpell Damage: 22 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 2 has won
+altenhof WaterSpell Damage: 22 vs. kienboec RegularSpell Damage: 28
+------------------------------------------
+Player Card 1 has won
+altenhof Knight Damage: 20 vs. kienboec WaterGoblin Damage: 10
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 50 vs. kienboec RegularSpell Damage: 28
+------------------------------------------
+Player Card 2 has won
+altenhof Knight Damage: 20 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 2 has won
+altenhof RegularSpell Damage: 45 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 50 vs. kienboec WaterGoblin Damage: 10
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 50 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 45 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Draw, no card has won
+altenhof RegularSpell Damage: 50 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 1 has won
+altenhof Knight Damage: 20 vs. kienboec WaterGoblin Damage: 10
+------------------------------------------
+Player Card 1 has won
+altenhof WaterSpell Damage: 22 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 1 has won
+altenhof Knight Damage: 20 vs. kienboec WaterGoblin Damage: 10
+------------------------------------------
+Draw, no card has won
+altenhof RegularSpell Damage: 50 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 2 has won
+altenhof WaterSpell Damage: 22 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 2 has won
+altenhof WaterSpell Damage: 22 vs. kienboec RegularSpell Damage: 28
+------------------------------------------
+Player Card 2 has won
+altenhof Knight Damage: 20 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 1 has won
+altenhof WaterSpell Damage: 22 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 1 has won
+altenhof Knight Damage: 20 vs. kienboec WaterGoblin Damage: 10
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 50 vs. kienboec RegularSpell Damage: 28
+------------------------------------------
+Player Card 2 has won
+altenhof Knight Damage: 20 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Draw, no card has won
+altenhof Knight Damage: 20 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 1 has won
+altenhof WaterSpell Damage: 22 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 2 has won
+altenhof Knight Damage: 20 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 1 has won
+altenhof Knight Damage: 20 vs. kienboec WaterGoblin Damage: 10
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 45 vs. kienboec WaterGoblin Damage: 10
+------------------------------------------
+Draw, no card has won
+altenhof RegularSpell Damage: 50 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 2 has won
+altenhof RegularSpell Damage: 45 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 45 vs. kienboec WaterGoblin Damage: 10
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 45 vs. kienboec RegularSpell Damage: 28
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 50 vs. kienboec WaterGoblin Damage: 10
+------------------------------------------
+Player Card 1 has won
+altenhof Knight Damage: 20 vs. kienboec WaterGoblin Damage: 10
+------------------------------------------
+Draw, no card has won
+altenhof Knight Damage: 20 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 2 has won
+altenhof WaterSpell Damage: 22 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 50 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 2 has won
+altenhof Knight Damage: 20 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 50 vs. kienboec RegularSpell Damage: 28
+------------------------------------------
+Player Card 2 has won
+altenhof WaterSpell Damage: 22 vs. kienboec RegularSpell Damage: 28
+------------------------------------------
+Player Card 1 has won
+altenhof Knight Damage: 20 vs. kienboec WaterGoblin Damage: 10
+------------------------------------------
+Player Card 2 has won
+altenhof WaterSpell Damage: 22 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 50 vs. kienboec RegularSpell Damage: 28
+------------------------------------------
+Player Card 2 has won
+altenhof WaterSpell Damage: 22 vs. kienboec RegularSpell Damage: 28
+------------------------------------------
+Player Card 2 has won
+altenhof WaterSpell Damage: 22 vs. kienboec RegularSpell Damage: 28
+------------------------------------------
+Player Card 1 has won
+altenhof WaterSpell Damage: 22 vs. kienboec WaterGoblin Damage: 10
+------------------------------------------
+Player Card 2 has won
+altenhof RegularSpell Damage: 45 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 50 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Draw, no card has won
+altenhof RegularSpell Damage: 50 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 1 has won
+altenhof WaterSpell Damage: 22 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 50 vs. kienboec WaterGoblin Damage: 10
+------------------------------------------
+Player Card 2 has won
+altenhof RegularSpell Damage: 45 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 2 has won
+altenhof Knight Damage: 20 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 50 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Draw, no card has won
+altenhof Knight Damage: 20 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 45 vs. kienboec RegularSpell Damage: 28
+------------------------------------------
+Player Card 2 has won
+altenhof WaterSpell Damage: 22 vs. kienboec RegularSpell Damage: 28
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 45 vs. kienboec RegularSpell Damage: 28
+------------------------------------------
+Draw, no card has won
+altenhof RegularSpell Damage: 50 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 45 vs. kienboec RegularSpell Damage: 28
+------------------------------------------
+Draw, no card has won
+altenhof Knight Damage: 20 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 2 has won
+altenhof Knight Damage: 20 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 2 has won
+altenhof WaterSpell Damage: 22 vs. kienboec RegularSpell Damage: 28
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 45 vs. kienboec WaterGoblin Damage: 10
+------------------------------------------
+Player Card 1 has won
+altenhof WaterSpell Damage: 22 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 45 vs. kienboec WaterGoblin Damage: 10
+------------------------------------------
+Draw, no card has won
+altenhof Knight Damage: 20 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Draw, no card has won
+altenhof Knight Damage: 20 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 2 has won
+altenhof WaterSpell Damage: 22 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 45 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 2 has won
+altenhof Knight Damage: 20 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Draw, no card has won
+altenhof Knight Damage: 20 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 1 has won
+altenhof RegularSpell Damage: 45 vs. kienboec WaterGoblin Damage: 10
+------------------------------------------
+Draw, no card has won
+altenhof Knight Damage: 20 vs. kienboec WaterSpell Damage: 20
+------------------------------------------
+Player Card 2 has won
+altenhof WaterSpell Damage: 22 vs. kienboec Dragon Damage: 50
+------------------------------------------
+Player Card 2 has won
+altenhof WaterSpell Damage: 22 vs. kienboec Dragon Damage: 50
+------------------------------------------

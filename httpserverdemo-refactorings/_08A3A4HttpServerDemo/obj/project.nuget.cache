@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SoJLkHyeWIhCFBzHiXC2TzTU2bgNwZPxy43tRfRHWihT6UFqcdFxBlILYNiepwcPEUE8SKXfhTD40XL4IRI3bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hasan\\Desktop\\Projekt\\monstercardgame-main\\httpserverdemo-refactorings\\_08A3A4HttpServerDemo\\_08A3A4HttpServerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Hasan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Hasan\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
